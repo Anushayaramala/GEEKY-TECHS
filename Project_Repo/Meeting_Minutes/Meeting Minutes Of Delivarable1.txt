@@ -1,4 +1,7 @@
-Number Of Meetings : 
-Minutes Of Meetings : 
+Number Of Meetings : 4
+Minutes Of Meetings : 278 minutes
 Discussion of Meeting :
-Teams Link : 
+ * We discussed about the deliverables of the project documentaion and presentaion
+ * We discussed about the implementation of key features about the Hospital Management System
+ * We Prepared the github repositories and file uploaded as required initiated the commits
+Teams Link : https://teams.microsoft.com/l/channel/19%3aSbe-A_Ve3SxOd-cgpndbDaJ_6oAMxg94pWx4__3sP4Y1%40thread.tacv2/General?groupId=df2c7a9f-f174-4eb2-919f-2df1242c415b&tenantId=70de1992-07c6-480f-a318-a1afcba03983
