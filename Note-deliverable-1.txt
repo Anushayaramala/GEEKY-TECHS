@@ -1,7 +1,7 @@
 Here are the file of directories that we submitted in our SoftwareEngineeringTeamProject repositories Delivarable - 1
-Directory of Meeting Minutes - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting Minutes
-Directory of Project Planning - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Planning
-Directory of Project Reports - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Reports
-Directory of Source Code - Project_Repo/Source Code
+Directory of Meeting Minutes - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes
+Directory of Project Planning - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Planning
+Directory of Project Reports - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports
+Directory of Source Code - Project_Repo/Source_Code
 
 Directory of README.md file - Anushayaramala/SoftwareEngineeringTeamProject/README.md
