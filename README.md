@@ -6,14 +6,14 @@ Here is our Repository Link : [SoftwareEngineeringTeamProject](https://github.co
 
 ## Project Directories :
 #### GROUP-INFO : 
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/GROUP-INFO">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/GROUP-INFO</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/blob/main/GROUP-INFO">SoftwareEngineeringTeamProject/blob/main/GROUP-INFO</a>
 #### Deliverables - 1 Note : 
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Note-deliverable-1.txt">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Note-deliverable-1.txt</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/blob/main/Note-deliverable-1.txt">SoftwareEngineeringTeamProject/blob/main/Note-deliverable-1.txt</a>
 #### 1. Meeting Minutes : 
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/blob/main/Project_Repo/Meeting_Minutes">/SoftwareEngineeringTeamProject/blob/main/Project_Repo/Meeting_Minutes</a>
 #### Project Planning :  
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Planning">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Planning</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/blob/main/Project_Repo/Project_Planning">SoftwareEngineeringTeamProject/blob/main/
 #### Project Reports :
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Reports">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/blob/main/Project Reports">SoftwareEngineeringTeamProject/blob/main/Project_Reports</a>
 #### Source Code : 
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Source_Code">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Source_Code</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/blob/main/Source_Code">SoftwareEngineeringTeamProject/blob/main/Source_Code</a>
