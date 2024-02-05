@@ -4,12 +4,16 @@ A full stack web application designed to access the need of a patient and help o
 
 Here is our Repository Link : [SoftwareEngineeringTeamProject](https://github.com/Anushayaramala/SoftwareEngineeringTeamProject)
 
-## Project Directories : 
+## Project Directories :
+#### GROUP-INFO : 
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/GROUP-INFO">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Source Code</a>
+#### Deliverables - 1 Note : 
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Note-deliverable-1.txt">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Note-deliverable-1.txt</a>
 #### 1. Meeting Minutes : 
-* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting Minutes">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting Minutes</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting Minutes</a>
 #### Project Planning :  
-* <a>https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Planning</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Planning">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Planning</a>
 #### Project Reports :
-* <a>https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Reports</a>
-#### Source Code : [SoftwareEngineeringTeamProject]
-* <a>https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Source Code</a>
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Reports">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project Reports</a>
+#### Source Code : 
+* <a href="https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Source_Code">https://github.com/Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Source Code</a>
