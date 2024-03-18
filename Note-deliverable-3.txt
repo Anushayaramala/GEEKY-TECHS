@@ -2,6 +2,6 @@ Here are the file of directories that we submitted in our SoftwareEngineeringTea
 Directory of Meeting Minutes - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes/Deliverable3_Meeting_minutes.txt
 Directory of Project Reports for deliverable 3 - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports/Deliverable - 3 Final.pdf
 Directory of Inspection-code-GeekyTechs - Anushayaramala/SoftwareEngineeringTeamProject/Inspection-code-GeekyTechs.pdf 
-Directory of Source Code - Project_Repo/Source_Code
+Directory of Source Code - Project_Repo/Source_Code_Phase1
 
 Directory of README.md file - Anushayaramala/SoftwareEngineeringTeamProject/README.md
