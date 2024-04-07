@@ -1,7 +1,7 @@
 Here are the file of directories that we submitted in our SoftwareEngineeringTeamProject repositories Delivarable -4
 Directory of Meeting Minutes - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes/Deliverable_4_Meeting_Minutes.txt
 Directory of Project Reports for deliverable 3 - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports/Deliverable-4.pdf
-Directory of Inspection-code-GeekyTechs - Anushayaramala/SoftwareEngineeringTeamProject/Inspection-code-GeekyTechs#4.pdf 
+
 Directory of Source Code - Project_Repo/Source_Code_Phase2
 Directory of frontend - Project_Repo/Source_Code_Phase1/HMS
 Directory of backend - Project_Repo/Source_Code_Phase1/backend/hms.sql
