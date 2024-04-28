@@ -2,7 +2,7 @@ Here are the file of directories that we submitted in our SoftwareEngineeringTea
 Directory of Meeting Minutes - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Meeting_Minutes/Deliverable_5_Meeting_Minutes.txt
 Directory of Project Reports for deliverable 5 - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports/Deliverable-5.pdf
 Directory of User Manual - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/User Manual - Geeky Techs.pdf
-Directory of Deliverable 5 PPT - Anushayaramala/SoftwareEngineeringTeamProject/GeekyTechs-del-5
+Directory of Deliverable 5 PPT - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports/GeekyTechs-del-5
 Directory of Source Code - Project_Repo/Source_Code_Phase3
 Directory of frontend - Project_Repo/Source_Code_Phase3/HMS
 Directory of backend - Project_Repo/Source_Code_Phase3/backend/hms.sql
