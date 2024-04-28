@@ -3,7 +3,7 @@ Directory of Meeting Minutes - Anushayaramala/SoftwareEngineeringTeamProject/Pro
 Directory of Project Reports for deliverable 5 - Anushayaramala/SoftwareEngineeringTeamProject/Project_Repo/Project_Reports/Deliverable-5.pdf
 
 Directory of Source Code - Project_Repo/Source_Code_Phase3
-Directory of frontend - Project_Repo/Source_Code_Phase2/HMS
-Directory of backend - Project_Repo/Source_Code_Phase2/backend/hms.sql
+Directory of frontend - Project_Repo/Source_Code_Phase3/HMS
+Directory of backend - Project_Repo/Source_Code_Phase3/backend/hms.sql
 
 Directory of README.md file - Anushayaramala/SoftwareEngineeringTeamProject/README.md
